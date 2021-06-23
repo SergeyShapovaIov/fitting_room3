@@ -1,0 +1,88 @@
+*{
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+
+
+/* input {
+     border: 2px solid rgb(247, 6, 6);
+     outline: none;
+     border-radius: 20px;
+     padding: 5px;
+}
+
+input:hover{
+    border-color: indigo;
+}
+
+input :focus{
+    border-color: lawngreen;
+}
+
+button{
+    border: 2px solid rgb(247, 6, 6);
+    border-radius: 20px;
+     padding: 5px;
+     background-color: rgb(142, 201, 83);
+     color: white;
+}
+button:hover{
+    box-shadow: 0 0 3px 1px #1a3058 ;
+}
+button:active{
+   box-shadow: inset 0 0 3px 1px #1a3058;
+} */
+
+.background{
+    width: 100%;
+    height: 30px;
+    background-color: #EAE7DC;
+    
+
+}
+
+.site_guide{
+    width: 100%;
+    height: 1080;
+}
+
+img{
+    width: 100%;
+    display:block;
+  
+}
+
+.buyer{
+    width: 100%;
+    height: 1200px;
+    background-color: #EAE7DC;
+}
+
+.seller{
+    width: 100%;
+    height: 1200px;
+    background-color: #EAE7DC;
+}
+
+.menu{
+    width: 33px;
+    height: 30px;
+    margin: 2px;
+    fill: #E85A4F;
+}
+.top_line{
+    width: 100%;
+    height: 30px;
+    background-color: #EAE7DC;
+}
+
+.measurement{
+    background-color: #D8C3A5;
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin-left: 190px;
+    display: block;
+    border-radius: 20px;
+
+}
